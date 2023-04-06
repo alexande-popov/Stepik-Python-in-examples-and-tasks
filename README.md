@@ -4,4 +4,7 @@
 
 https://stepik.org/course/58638/syllabus
 
-![](https://stepik.org/certificate/c9d257c7b42647dd68d7ec068935c4f871b99ceb.png?resolution=low)
+Ссылка на сертификат: 
+https://stepik.org/cert/2018492
+
+![pic-cert](stepik-certificate-58638-c9d257c.jpg)
