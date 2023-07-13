@@ -6,7 +6,7 @@
 * смещение осей координат `gce()`. 
 * плоские геометрические фигуры.
   
-[matplotlib](/matplotlib.ipynb) 
+[matplotlib](matplotlib.ipynb) 
 Начало работы с `matplotlib`. 
 * Функции `subplot()`, `subplots()`
 * Объект `Figure`
